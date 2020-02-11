@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Governance Application Table" language="en" table="x_447740_governanc_governance_application_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Governance Application Table</label>
+            <language>en</language>
+            <name>x_447740_governanc_governance_application_table</name>
+            <plural>Governance Application Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-10 05:17:43</sys_created_on>
+            <sys_id>cc2a2a76db3200108f6bab7dca961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Governance Application Table</sys_name>
+            <sys_package display_value="Governance Application" source="x_447740_governanc">2f1a6a36db3200108f6bab7dca961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Governance Application">2f1a6a36db3200108f6bab7dca961999</sys_scope>
+            <sys_update_name>sys_documentation_x_447740_governanc_governance_application_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-10 05:17:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
